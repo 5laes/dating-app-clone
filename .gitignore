@@ -1,5 +1,8 @@
 bin
 obj
 *.db
+*.db-shm
+*.db-wal
 .DS_Store
 appsettings.json
+ssl

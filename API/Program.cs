@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
+builder.Services.AddCors();
 
 if (builder.Environment.IsDevelopment())
 {
@@ -21,6 +22,10 @@ else
 var app = builder.Build();
 
 app.UseHttpsRedirection();
+
+app.UseRouting();
+
+app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200"));
 
 app.UseAuthorization();
 
