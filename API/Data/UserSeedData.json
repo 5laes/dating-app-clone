@@ -96,7 +96,7 @@
     },
     {
         "UserName": "Gay",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1994-12-06",
         "KnownAs": "Gay",
         "Created": "2020-02-29",
@@ -108,14 +108,14 @@
         "Country": "Kenya",
         "Photos": [
         {
-            "Url": "https://randomuser.me/api/portraits/women/55.jpg",
+            "Url": "https://randomuser.me/api/portraits/men/55.jpg",
             "IsMain": true
         }
         ]
     },
     {
         "UserName": "Harvey",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1987-11-03",
         "KnownAs": "Harvey",
         "Created": "2019-03-22",
@@ -127,14 +127,14 @@
         "Country": "Falkland Islands (Malvinas)",
         "Photos": [
         {
-            "Url": "https://randomuser.me/api/portraits/women/19.jpg",
+            "Url": "https://randomuser.me/api/portraits/men/19.jpg",
             "IsMain": true
         }
         ]
     },
     {
         "UserName": "Riddle",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1993-07-05",
         "KnownAs": "Riddle",
         "Created": "2020-04-24",
@@ -146,14 +146,14 @@
         "Country": "Faroe Islands",
         "Photos": [
         {
-            "Url": "https://randomuser.me/api/portraits/women/30.jpg",
+            "Url": "https://randomuser.me/api/portraits/men/30.jpg",
             "IsMain": true
         }
         ]
     },
     {
         "UserName": "Sheppard",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1952-01-15",
         "KnownAs": "Sheppard",
         "Created": "2019-09-15",
@@ -165,14 +165,14 @@
         "Country": "Austria",
         "Photos": [
         {
-            "Url": "https://randomuser.me/api/portraits/women/14.jpg",
+            "Url": "https://randomuser.me/api/portraits/men/14.jpg",
             "IsMain": true
         }
         ]
     },
     {
         "UserName": "Gallegos",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1958-12-27",
         "KnownAs": "Gallegos",
         "Created": "2020-01-06",
@@ -184,7 +184,7 @@
         "Country": "Greenland",
         "Photos": [
         {
-            "Url": "https://randomuser.me/api/portraits/women/42.jpg",
+            "Url": "https://randomuser.me/api/portraits/men/42.jpg",
             "IsMain": true
         }
         ]
