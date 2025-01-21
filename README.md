@@ -3,7 +3,7 @@
 
 This is a project for me to sharpen my angular skills and learn about implementing live communication between users, role based user authentication, tracking user status, working with images and more.
 
-I wish I could publish this app to some publisher service but I am no economical situation where I can spend the tiniest amount of money right now. If you want to try this app you could clone this repository and build and run it your self. (You will not see any pictures since they are hosted on my API key for Cloudinary)
+I wish I could publish this app to some publisher service but I am no economical situation where I can spend the tiniest amount of money on something like that right now. If you want to try this app you could clone this repository and build and run it your self. (You will not see any pictures since they are hosted on my API key for Cloudinary)
 
 ## How to Build and Run
 Tools you need installed
