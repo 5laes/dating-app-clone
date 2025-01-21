@@ -10,7 +10,7 @@ Tools you need installed
 - .NET 9
 - Angular 18
 
-I would recommend cloning the ``` 72386c9c4a9e1dcc75ecc454f24b80fae29dcb13 ``` commit since that is the last commit before switching to PostgreSQL from Sqlite.
+I would recommend cloning the ``` 4613ef307147961c1e120c82c6556115fa58e840 ``` commit since that is the last commit before switching to PostgreSQL from Sqlite.
 
 in one terminal cd in to the API folder and run 
 - ``` dotnet restore ```
